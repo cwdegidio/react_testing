@@ -1,0 +1,13 @@
+.advice-button {
+    border: 1px solid white;
+    padding: 5px 20px;
+    text-transform: uppercase;
+    background-color: transparent;
+    color: white;
+    transition: background-color 0.2s ease-in;
+}
+
+.advice-button:hover {
+    background-color: white;
+    color: black;
+}

@@ -1,0 +1,7 @@
+.form-component {
+    margin-top: 30px;
+}
+
+.form-component input[type="submit"] {
+    margin-top: 20px;
+}
